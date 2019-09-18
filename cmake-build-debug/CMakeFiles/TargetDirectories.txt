@@ -1,0 +1,3 @@
+/home/saem/programs/CLionProjects/edgedetector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/saem/programs/CLionProjects/edgedetector/cmake-build-debug/CMakeFiles/edgedetector.dir
+/home/saem/programs/CLionProjects/edgedetector/cmake-build-debug/CMakeFiles/edit_cache.dir
